@@ -1,0 +1,4 @@
+reflect projectiles back to the enemy with a "shield", 
+and collect their remains to expand and get stronger.
+
+didm't make the collect and grow functions...
